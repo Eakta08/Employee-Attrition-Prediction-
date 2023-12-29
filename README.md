@@ -5,3 +5,4 @@ This is a project based on the Employee Attrition analysis and then predicting i
 
 ![image](https://github.com/Eakta08/Employee-Attrition-Prediction-/assets/131867852/ec0910c1-ff31-45d9-a897-294d4deee3ec)
 
+**Google colab Link:** https://colab.research.google.com/github/Eakta08/Employee-Attrition-Prediction-/blob/main/Employee%20Attrition.ipynb
